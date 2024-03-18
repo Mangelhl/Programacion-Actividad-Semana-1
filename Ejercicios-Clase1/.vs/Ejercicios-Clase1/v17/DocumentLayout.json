@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Taller 3D\\Ejercicios-Clase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F395ED-771E-49B5-AF21-47732DCE5477}|Ejercicios-Clase1\\Ejercicios-Clase1.csproj|d:\\taller 3d\\ejercicios-clase1\\ejercicios-clase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F395ED-771E-49B5-AF21-47732DCE5477}|Ejercicios-Clase1\\Ejercicios-Clase1.csproj|solutionrelative:ejercicios-clase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Taller 3D\\Ejercicios-Clase1\\Ejercicios-Clase1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios-Clase1\\Program.cs",
+              "ToolTip": "D:\\Taller 3D\\Ejercicios-Clase1\\Ejercicios-Clase1\\Program.cs",
+              "RelativeToolTip": "Ejercicios-Clase1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:49:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
