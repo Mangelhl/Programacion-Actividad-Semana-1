@@ -10,19 +10,19 @@ namespace Ejercicios_Clase1
     {
         static void Main(string[] args)
         {
-            double baseRectangle, heightRectangle;
+            int baseRectangle, heightRectangle;
 
-            Console.WriteLine("Ingrese la base del rectángulo:");
-            baseRectangle = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter the base of the rectangle:");
+            baseRectangle = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Ingrese la altura del rectángulo:");
-            heightRectangle = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter the height of the rectangle:");
+            heightRectangle = int.Parse(Console.ReadLine());
 
-            double areaRectangle = baseRectangle * heightRectangle;
-            double perimeterRectangle = 2 * (baseRectangle + heightRectangle);
+            int areaRectangle = baseRectangle * heightRectangle;
+            int perimeterRectangle = 2 * (baseRectangle + heightRectangle);
 
-            Console.WriteLine("El área del rectángulo es: " + areaRectangle);
-            Console.WriteLine("El perímetro del rectángulo es: " + perimeterRectangle);
+            Console.WriteLine("The area of the rectangle is: " + areaRectangle);
+            Console.WriteLine("The perimeter of the rectangle is: " + perimeterRectangle);
         }
     }
 }
