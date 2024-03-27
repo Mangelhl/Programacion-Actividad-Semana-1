@@ -8,7 +8,7 @@ namespace Ejercicios_Clase1
 {
     internal class Ejercicio2
     {
-        static void Main(string[] args)
+        internal static void RealizarEjercicio()
         {
             int baseTriangle, heightTriangle;
 

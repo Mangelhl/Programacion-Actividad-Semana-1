@@ -8,7 +8,7 @@ namespace Ejercicios_Clase1
 {
     internal class Ejercicio3
     {
-        static void Main(string[] args)
+        internal static void RealizarEjercicio()
         {
             Console.WriteLine("Enter a year: ");
             int year = int.Parse(Console.ReadLine());

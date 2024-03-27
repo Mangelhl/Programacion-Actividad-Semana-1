@@ -8,7 +8,7 @@ namespace Ejercicios_Clase1
 {
     class Ejercicio6
     {
-        static void Main(string[] args)
+        internal static void RealizarEjercicio()
         {
             bool continuar = true;
 

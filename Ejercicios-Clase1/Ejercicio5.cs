@@ -8,7 +8,7 @@ namespace Ejercicios_Clase1
 {
     internal class Ejercicio5
     {
-        static void Main(String[] args)
+        internal static void RealizarEjercicio()
         {
             bool continuar = true;
 
